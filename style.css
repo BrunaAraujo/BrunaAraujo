@@ -1,0 +1,74 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: #212529; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: white;
+  text-shadow: 2px 2px black;
+ 
+}
+*{
+  font-family: sans-serif;
+}
+h1{
+  text-align: center;
+
+}
+img{
+  display: block;
+  width: 1000px;
+length:500px; 
+  text-align: center;
+padding: 25px;
+
+<style>
+/* #circle {
+  margin: 2em;
+  padding: 2em;
+  width: 100px;
+  height: 100px;
+-webkit-border-radius:50px;
+  -moz-border-radius: 50px;
+  border-radius: 80px;
+background: #ffd60a; 
+} */
+
+
+/* .circle-txt{
+position: absolute;
+bottom: 50%;
+width: 100%;
+text-align: center;
+font-family: arial, sans-serif;
+font-weight: bold;
+}
+ */
+  
+</style>    
+
+  margin: 0 auto;
+  transition: 0.3s;
+}
+
+.heading {
+display: block;
+background: rgb(0,8,20,0.6);
+margin: 5em;
+padding: 3em;
+border-radius: 10%;
+font-family: 'Trispace', sans-serif; 
+
+
+}
+.things {
+display: block;
+background: rgb(255,195,0, .7);
+margin: 5em;
